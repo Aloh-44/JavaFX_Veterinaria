@@ -1,0 +1,18 @@
+[
+  {
+    "raza": "Labrador",
+    "vacunado": true,
+    "nombre": "Max",
+    "edad": 3,
+    "costoBase": 15.0,
+    "peso": 12000.0
+  },
+  {
+    "raza": "pudle",
+    "vacunado": false,
+    "nombre": "spock",
+    "edad": 2,
+    "costoBase": 5.0,
+    "peso": 20000.0
+  }
+]
